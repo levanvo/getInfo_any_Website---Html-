@@ -27,6 +27,12 @@ export const ok = async (req, res) => {
 };
 
 
-
+// $('form .single_variation .product-price .price .amount #showPrice').each((index, element) => {
+//     const spanText = $(element).text();
+//     console.log(`Nội dung thẻ span thứ ${index + 1}:`, spanText.trim());
+// });
+// const priceElement = $(' #showPrice');
+// const priceText = priceElement.text();
+// console.log(priceText);
 
 
